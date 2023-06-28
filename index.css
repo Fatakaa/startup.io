@@ -1,0 +1,2355 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+body {
+  position: absolute;
+  width: 1440px;
+  height: 5095px;
+  left: 0px;
+  top: 0px;
+  color: #ffffff;
+}
+
+/* Header */
+.menu_button {
+  height: 40px;
+  width: 40px;
+  background: #F2F6FF;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 5px;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.menu_button h1 {
+  font-size: 30px;
+  color: #234CAD;
+
+}
+
+.menu {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 430px;
+}
+
+.menu li a {
+  font-size: 18px;
+  color: #234CAD;
+  margin-right: 50px;
+}
+
+.login {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 1045px;
+}
+
+.login button {
+  height: 50px;
+  width: 135px;
+  background-color: #ffff;
+  border-radius: 25px;
+  border-color: #234CAD;
+  color: #234CAD;
+}
+
+.sign {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 1205px;
+}
+
+.sign button {
+  height: 50px;
+  width: 135px;
+  background: #F2F6FF;
+  border-radius: 25px;
+  color: #234CAD;
+  border: none;
+}
+
+/* Hero */
+.hero {
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 100px;
+  height: 575px;
+  width: 1240px;
+  background: #F2F6FF;
+  border-radius: 60px;
+}
+
+.main-title {
+  position: absolute;
+  height: 168px;
+  width: 375px;
+  margin-top: 108px;
+  margin-left: 100px;
+
+}
+
+.main-title h1 {
+  font-size: 48px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.body-text {
+  position: absolute;
+  height: 52px;
+  width: 304px;
+  margin-top: 301px;
+  margin-left: 100px;
+}
+
+.body-text h3 {
+  font-size: 16px;
+  color: #234CAD;
+}
+
+.get {
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 403px;
+}
+
+.get button {
+  height: 65px;
+  width: 200px;
+  background: #F2F6FF;
+  border-radius: 32.5px;
+  border-color: #234CAD;
+  color: #234CAD;
+}
+
+.card-1 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  margin-top: 136px;
+  margin-left: 575px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.card-1 svg {
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+
+.card-1 h1 {
+  position: absolute;
+  font-size: 16px;
+  margin-top: 32px;
+  margin-left: 93px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.card-1 p {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 93px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.card-2 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  margin-top: 261px;
+  margin-left: 876px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.person {
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+
+.notif {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 64px;
+}
+
+.card-2 h1 {
+  position: absolute;
+  font-size: 16px;
+  margin-top: 32px;
+  margin-left: 93px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.card-2 h3 {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 93px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.card-2 h5 {
+  position: absolute;
+  margin-top: 28px;
+  margin-left: 292px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.card-3 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  margin-top: 446px;
+  margin-left: 575px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.person {
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 20px;
+}
+
+.notif {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 64px;
+}
+
+.card-3 h1 {
+  position: absolute;
+  font-size: 16px;
+  margin-top: 32px;
+  margin-left: 93px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.card-3 h3 {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 93px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.card-3 h5 {
+  position: absolute;
+  margin-top: 28px;
+  margin-left: 292px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.card-4 {
+  position: absolute;
+  width: 130px;
+  height: 160px;
+  border-radius: 25px;
+  background-color: #FFFF;
+  margin-top: 76px;
+  margin-left: 975px;
+}
+
+.card-4 svg {
+  position: absolute;
+  margin-top: 29px;
+  margin-left: 30px;
+}
+
+.card-4 h1 {
+  position: absolute;
+  margin-top: 119px;
+  margin-left: 33.29px;
+  font-size: 10px;
+  color: #234CAD;
+  font-weight: 400;
+
+}
+
+.card-5 {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin-top: 36px;
+  margin-left: 575px;
+}
+
+.card-5 svg {
+  position: absolute;
+  margin-top: 23px;
+  margin-left: 26px;
+  color: #234CAD;
+}
+
+.card-6 {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  border-radius: 20px;
+  background-color: #fff;
+  margin-top: 510px;
+  margin-left: 973px;
+}
+
+.card-6 svg {
+  position: absolute;
+  margin-top: 23px;
+  margin-left: 23px;
+  color: #234CAD;
+}
+
+.card-7 {
+  position: absolute;
+  width: 276px;
+  height: 160px;
+  border-radius: 25px;
+  background-color: #fff;
+  margin-top: 261px;
+  margin-left: 575px;
+}
+
+.circle {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #234CAD;
+}
+
+.calendar {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 40px;
+  color: #234CAD;
+}
+
+.card-7 h1 {
+  position: absolute;
+  font-size: 16px;
+  margin-top: 32px;
+  margin-left: 93px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.card-7 p {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 93px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+.circle-1 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-top: 100px;
+  margin-left: 20px;
+  border-radius: 50%;
+  background-color: #F2F6FF;
+}
+
+.circle-1 p {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 14px;
+  font-size: 10px;
+}
+
+.circle-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-top: 100px;
+  margin-left: 50px;
+  border-radius: 50%;
+  background-color: #F2F6FF;
+}
+
+.circle-2 p {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 14px;
+  font-size: 10px;
+}
+
+.circle-3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-top: 100px;
+  margin-left: 80px;
+  border-radius: 50%;
+  background-color: #F2F6FF;
+}
+
+.circle-3 p {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 14px;
+  font-size: 10px;
+}
+
+.circle-4 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  margin-top: 100px;
+  margin-left: 110px;
+  border-radius: 50%;
+  background-color: #F2F6FF;
+}
+
+.circle-4 p {
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 14px;
+  font-size: 10px;
+}
+
+.card-8 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  margin-top: 386px;
+  margin-left: 975px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.circle {
+  position: absolute;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #234CAD;
+}
+
+.calendar {
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 40px;
+  color: #234CAD;
+}
+
+.card-8 h1 {
+  position: absolute;
+  font-size: 16px;
+  margin-top: 32px;
+  margin-left: 93px;
+  color: #234CAD;
+  font-weight: 700;
+}
+
+.card-8 p {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 93px;
+  font-size: 12px;
+  color: #234CAD;
+  font-weight: 400;
+}
+
+/* Text-Left */
+.text-left{
+    position: absolute;
+    width: 1040px;
+    height: 575px;
+    margin-top: 2858px;
+    margin-left: 200px;
+}
+
+.main-title1 {
+    position: absolute;
+    height: 168px;
+    width: 375px;
+    margin-top: 108px;
+
+}
+
+.main-title1 h1 {
+    font-size: 48px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.body-text1 {
+    position: absolute;
+    height: 52px;
+    width: 304px;
+    margin-top: 301px;
+}
+
+.body-text1 h3 {
+    font-size: 16px;
+    color: #234CAD;
+}
+
+.get1 {
+    position: absolute;
+    margin-top: 403px;
+}
+
+.get1 button {
+    height: 65px;
+    width: 200px;
+    background: #F2F6FF;
+    border-radius: 32.5px;
+    border-color: #234CAD;
+    color: #234CAD;
+}
+
+.card-back{
+    position: absolute;
+    width: 575px;
+    height: 575px;
+    margin-left: 465px;
+    background-color: #F2F6FF;
+    border-radius: 60px;
+    border: 2px solid #F2F6FF; 
+}
+
+.card-9 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.card-9 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-9 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-1 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-2 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-3 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 110px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-4 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+
+.card-10 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 285px;
+    margin-left: 100px;
+}
+
+.card-10 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-10 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-1 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-2 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-3 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 110px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-4 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+.card-11 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 470px;
+    margin-left: 100px;
+}
+
+.card-11 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-11 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+.card-12 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 100px;
+    margin-left: 401px;
+}
+
+.card-12 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-12 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-1 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-2 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-3 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+.card-13 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 285px;
+    margin-left: 401px;
+}
+
+.card-13 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-13 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+
+.circle-1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 20px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-1 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-2 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-3 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+
+.circle-4 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 110px;
+    border-radius: 50%;
+    background-color: #F2F6FF;
+}
+
+.circle-4 p {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 14px;
+    font-size: 10px;
+}
+.card-14 {
+    position: absolute;
+    width: 276px;
+    height: 160px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-top: 470px;
+    margin-left: 401px;
+}
+
+.card-14 h1 {
+    position: absolute;
+    font-size: 16px;
+    margin-top: 32px;
+    margin-left: 93px;
+    color: #234CAD;
+    font-weight: 700;
+}
+
+.card-14 p {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 93px;
+    font-size: 12px;
+    color: #234CAD;
+    font-weight: 400;
+}
+
+/* Icons Cloud */
+.cloud-icon {
+  position: absolute;
+  width: 1240px;
+  height: 100px;
+  left: 100px;
+  top: 925px;
+}
+
+.cloud-item1 {
+  position: absolute;
+  width: 532px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+}
+
+.cloud-item1 .img {
+  position: absolute;
+  left: 0%;
+  right: 91.94%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.textcontent-1 {
+  position: absolute;
+  left: 10.48%;
+  right: 0%;
+  top: 8%;
+  bottom: 7%;
+}
+
+.textcontent-1 h4 {
+  position: absolute;
+  height: 49px;
+  left: 0%;
+  right: 57.71%;
+  top: calc(50% - 49px / 2 - 18px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 6000;
+  font-size: 30px;
+  line-height: 49px;
+  color: #234cad;
+}
+
+.textcontent-1 p {
+  position: absolute;
+  height: 36px;
+  left: 0%;
+  right: 0%;
+  top: calc(50% - 36px / 2 + 24.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 36px;
+  color: #234cad;
+}
+
+.cloud-item2 {
+  position: absolute;
+  width: 553px;
+  height: 100px;
+  left: 687px;
+  top: 0px;
+}
+
+.cloud-item2 .img {
+  position: absolute;
+  left: 55.4%;
+  right: 36.53%;
+  top: 0%;
+  bottom: 0%;
+}
+
+.textcontent-2 {
+  position: absolute;
+  left: 22.48%;
+  right: -57.1%;
+  top: 8%;
+  bottom: 7%;
+}
+
+.textcontent-2 h4 {
+  position: absolute;
+  height: 49px;
+  left: 0%;
+  right: 73.76%;
+  top: calc(50% - 49px / 2 - 18px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 49px;
+  color: #234cad;
+}
+
+.textcontent-2 p {
+  position: absolute;
+  height: 36px;
+  left: 0%;
+  right: 0%;
+  top: calc(50% - 36px / 2 + 24.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 36px;
+  color: #234cad;
+}
+
+/* Text Center */
+.web-sectiontextcenter {
+  position: absolute;
+  width: 1240px;
+  height: 908px;
+  left: 100px;
+  top: 1900px;
+}
+.contenttext {
+  position: absolute;
+  width: 723px;
+  height: 133px;
+  left: 259px;
+  top: 0px;
+}
+.titleemain {
+  position: absolute;
+  left: 10%;
+  right: 20.81%;
+  top: 0%;
+  bottom: 93.83%;
+  width: 723px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  /* identical to box height, or 117% */
+
+  text-align: center;
+
+  color: #234cad;
+}
+.texttbody {
+  position: absolute;
+  left: 30%;
+  right: 32.82%;
+  top: 50%;
+  bottom: 85.35%;
+  width: 425px;
+  height: 52px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  text-align: center;
+
+  color: #234cad;
+}
+.content3 {
+  position: absolute;
+  width: 1240px;
+  height: 625px;
+  left: 0px;
+  top: 233px;
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+.komponenUI {
+  position: absolute;
+  width: 1026px;
+  height: 595px;
+  left: 107px;
+  top: 263px;
+}
+.card1tc {
+  position: absolute;
+
+  right: 37%;
+  top: -15%;
+  bottom: 39.65%;
+  width: 276px;
+  height: 160px;
+  background: #ffffff;
+  border-radius: 25px;
+}
+.icon1tc {
+  /* box-sizing: border-box; */
+
+  position: absolute;
+  left: 15%;
+  right: 54.68%;
+  top: 30%;
+  bottom: 48.46%;
+}
+.title3tc {
+  position: absolute;
+  height: 21px;
+  left: 40%;
+  top: 20%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #234cad;
+}
+.information3tc {
+  position: absolute;
+  height: 21px;
+  left: 40%;
+  top: 35%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+
+  color: #234cad;
+}
+.myperson {
+  left: 20%;
+  right: -200%;
+}
+.text-block {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #f2f6ff;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+  bottom: 20px;
+  margin: 20px -10px 20px 20px;
+  border-style: solid;
+}
+
+.person01 .text-block p {
+  height: 14px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  color: #234cad;
+}
+
+.text-block-1 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #f2f6ff;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+  bottom: 20px;
+  margin-left: 50px;
+  border-style: solid;
+}
+
+.person-1 .text-block-1 p {
+  height: 14px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  color: #234cad;
+}
+
+.text-block-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #f2f6ff;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+  bottom: 20px;
+  margin-left: 80px;
+  border-style: solid;
+}
+
+.person-2 .text-block-2 p {
+  height: 14px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  color: #234cad;
+}
+
+.text-block-3 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #f2f6ff;
+  color: white;
+  padding: 9px;
+  border-radius: 100%;
+  bottom: 20px;
+  margin-left: 110px;
+  border-style: solid;
+}
+
+.person-3 .text-block-3 p {
+  height: 14px;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 14px;
+  color: #234cad;
+}
+.cardd2tc {
+  position: absolute;
+  left: 65%;
+  right: 8.63%;
+  top: -15%;
+  bottom: 46.26%;
+  width: 350px;
+  height: 100px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+.icon2tc {
+  position: absolute;
+  left: 10%;
+  right: 54.68%;
+  top: 20%;
+  bottom: 48.46%;
+}
+.tittlec2tc {
+  position: absolute;
+  height: 21px;
+  left: 35%;
+  top: 25%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+
+  color: #234cad;
+}
+.amounttc {
+  position: absolute;
+  height: 21px;
+  left: 35%;
+  right: 30%;
+  top: calc(50% - 21px / 2 + 12px);
+
+  font-family: "Basic";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  color: #234cad;
+}
+.cardd3tc {
+  position: absolute;
+  left: 0%;
+  right: 50%;
+  bottom: 33.59%;
+  width: 350px;
+  height: 100px;
+
+  top: 2%;
+  background: #ffffff;
+  border-radius: 25px;
+}
+.icon3tc {
+  position: absolute;
+  left: 10%;
+  right: 84.92%;
+  top: 20%;
+
+  bottom: 48.46%;
+  background-color: #f2f6ff;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.namecr3tc {
+  position: absolute;
+  height: 21px;
+  left: 33%;
+  top: 30%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  color: #234cad;
+}
+.masaagecr3tc {
+  position: absolute;
+  height: 21px;
+  left: 33%;
+  top: 50%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 21px;
+  color: #234cad;
+}
+.card4tc {
+  position: absolute;
+  left: 46%;
+  right: 24.76%;
+  top: -38%;
+  bottom: 60.02%;
+  width: 350px;
+  height: 100px;
+  background: #ffffff;
+  border-radius: 25px;
+}
+.initialcr4tc {
+  position: absolute;
+  left: 9.26%;
+  right: 83.35%;
+  top: 20%;
+  bottom: 63.83%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f2f6ff;
+}
+.Pinitialcr4tc {
+  position: absolute;
+  height: 29px;
+  left: 33.33%;
+  right: 33.33%;
+  top: calc(50% - 29px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 29px;
+  /* identical to box height, or 132% */
+
+  color: #234cad;
+}
+.Pnumbercr4tc {
+  position: absolute;
+  height: 10px;
+  left: 40%;
+  right: 40%;
+  top: calc(50% - 10px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 6px;
+  line-height: 10px;
+  /* identical to box height, or 143% */
+
+  color: #ffffff;
+}
+.notifikasicr4tc {
+  position: absolute;
+  box-sizing: border-box;
+  border-radius: 50%;
+  height: 10px;
+  left: 70%;
+  right: 60%;
+  width: 20px;
+  height: 20px;
+  background: #234cad;
+  border: 2.5px solid #ffffff;
+}
+.pnamecr4tc {
+  position: absolute;
+  margin-left: 150%;
+  size: 20px;
+  bottom: 0%;
+  top: 20%;
+  width: 155px;
+  color: #234cad;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+}
+.pmassagecr4tc {
+  position: absolute;
+  margin-left: 150%;
+  size: 15px;
+  width: 400%;
+  bottom: 0%;
+  top: 50%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 26px;
+
+  color: #234cad;
+}
+.ptimecr4tc {
+  position: absolute;
+  margin-left: 420%;
+  width: 300%;
+  top: 20%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  color: #234cad;
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+.card5tc {
+  position: absolute;
+  right: 30%;
+  top: 17%;
+  bottom: 39.65%;
+  width: 350px;
+  height: 100px;
+  background: #ffffff;
+  border-radius: 25px;
+}
+
+.card6tc {
+  position: absolute;
+  left: 36%;
+  right: 24.76%;
+  top: 40%;
+  bottom: 60.02%;
+  width: 130px;
+  height: 160px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+.iconcr6tc {
+  margin: 40px 0 0 35px;
+}
+.amountcr6tc {
+  position: absolute;
+  left: 27%;
+  top: 85%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 13px;
+  color: #234cad;
+}
+.card7tc {
+  position: absolute;
+  left: 27%;
+  right: 24.76%;
+  top: 30%;
+  bottom: 60.02%;
+  width: 75px;
+  height: 75px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.card8tc {
+  position: absolute;
+  left: 36%;
+  right: 24.76%;
+  top: -34%;
+  bottom: 60.02%;
+  width: 75px;
+  height: 75px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+/* Newsletter */
+.newsletter {
+  position: absolute;
+  width: 1240px;
+  height: 383px;
+  left: 100px;
+  top: 4321px;
+}
+
+.newsletter-card {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+.newsletter-heading {
+  position: absolute;
+  left: 27.1%;
+  right: 27.02%;
+  top: 19.58%;
+  bottom: 65.8%;
+  width: 569px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #234cad;
+}
+
+.newsletter-description {
+  position: absolute;
+  left: 36.05%;
+  right: 35.89%;
+  top: 40.73%;
+  bottom: 45.69%;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #234cad;
+}
+
+.newsletter-form {
+  position: absolute;
+  left: 29.84%;
+  right: 29.84%;
+  top: 63.45%;
+  bottom: 19.58%;
+  background: #ffffff;
+  border-radius: 17.5px;
+  width: 500px;
+  height: 65px;
+}
+
+.newsletter-form input {
+  width: 100%;
+  height: 60px;
+  border: 0;
+  background: none;
+  padding: 0 30px;
+  outline: none;
+  font-size: 15px;
+  padding-right: 80px;
+}
+
+.newsletter-form button {
+  position: absolute;
+  left: 89%;
+  right: 2%;
+  top: 15.38%;
+  bottom: 15.38%;
+  background: #234cad;
+  border-radius: 12.5px;
+}
+
+.newsletter-form button:hover {
+  opacity: 0.5;
+}
+
+.newsletter-form:hover {
+  transform: scale(1.02);
+}
+@font-face {
+  font-family: Nunito;
+  src: url('font/Nunito-VariableFont.ttf');
+}
+
+/* css untuk textright start */
+.text-right {
+  position: absolute;
+  width: 1015px;
+  height: 575px;
+  left: 213px;
+  top: 1175px;
+}
+.cardbody {
+  position: absolute;
+  width: 575px;
+  height: 575px;
+  left: 0px;
+  top: 0px;
+  /* 
+  position: absolute;
+  left: 0%;
+  right: 43.35%;
+  top: 0%;
+  bottom: 0%; */
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+
+.card-content {
+  position: absolute;
+  left: 0%;
+  right: 43.35%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+.card1 {
+  position: absolute;
+  width: 438px;
+  height: 125px;
+  top: 108px;
+  left: 69px;
+  background: #ffffff;
+  border-radius: 25px;
+}
+.items {
+  position: absolute;
+  left: 9.26%;
+  right: 83.35%;
+  top: 23.13%;
+  bottom: 63.83%;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background-color: #f2f6ff;
+}
+.inisial {
+  position: absolute;
+  height: 29px;
+  left: 33.33%;
+  right: 33.33%;
+  top: calc(50% - 29px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 29px;
+  /* identical to box height, or 132% */
+
+  color: #234cad;
+}
+.notifikasi {
+  position: absolute;
+  box-sizing: border-box;
+  border-radius: 50%;
+  height: 10px;
+  left: 70%;
+  right: 60%;
+  width: 20px;
+  height: 20px;
+  background: #234cad;
+  border: 2.5px solid #ffffff;
+}
+.numberright {
+  position: absolute;
+  height: 10px;
+  left: 40%;
+  right: 40%;
+  top: calc(50% - 10px / 2);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 7px;
+  line-height: 10px;
+  /* identical to box height, or 143% */
+
+  color: #ffffff;
+}
+.name-right {
+  position: absolute;
+  margin-left: 150%;
+  size: 20px;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 - 15px);
+  width: 155px;
+  color: #234cad;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+}
+.massage-right {
+  position: absolute;
+  margin-left: 150%;
+  size: 15px;
+  width: 400%;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 + 15px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+
+  color: #234cad;
+}
+.time-right {
+  position: absolute;
+  margin-left: 400%;
+  width: 300%;
+  top: calc(50% - 17px / 2 - 20px);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 135% */
+
+  color: #234cad;
+
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+.card2 {
+  position: absolute;
+  width: 350px;
+  height: 100px;
+  left: 133px;
+  top: 44.87%;
+  background: #ffffff;
+  border-radius: 20px;
+  mix-blend-mode: normal;
+  opacity: 0.85;
+}
+.items2 {
+  position: absolute;
+  left: 9.26%;
+  right: 83.35%;
+  top: 23%;
+  bottom: 63.83%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f2f6ff;
+}
+.inisial2 {
+  position: absolute;
+  height: 24px;
+  left: 30%;
+  right: 30%;
+  top: calc(50% - 24px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  color: #234cad;
+}
+.notifikasi2 {
+  position: absolute;
+  box-sizing: border-box;
+  border-radius: 50%;
+  height: 10px;
+  left: 70%;
+  right: 60%;
+  width: 20px;
+  height: 20px;
+  background: #234cad;
+  border: 2.5px solid #ffffff;
+}
+.number2-right {
+  position: absolute;
+  height: 10px;
+  left: 40%;
+  right: 40%;
+  top: calc(50% - 10px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 7px;
+  line-height: 10px;
+  /* identical to box height, or 143% */
+
+  color: #ffffff;
+}
+.name2-right {
+  position: absolute;
+  margin-left: 150%;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 - 15px);
+  width: 155px;
+  color: #234cad;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+}
+.massage2-right {
+  position: absolute;
+  margin-left: 150%;
+  size: 15px;
+  width: 400%;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 + 15px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+
+  color: #234cad;
+}
+.time2-right {
+  position: absolute;
+  margin-left: 350%;
+  width: 300%;
+  top: calc(50% - 17px / 2 - 20px);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  /* identical to box height, or 135% */
+
+  color: #234cad;
+
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+.card3 {
+  position: absolute;
+  width: 282px;
+  height: 85px;
+  left: 147px;
+  top: 66.61%;
+  background: #ffffff;
+  border-radius: 20px;
+  mix-blend-mode: normal;
+  opacity: 0.85;
+}
+.items3 {
+  position: absolute;
+  left: 9.26%;
+  right: 83.35%;
+  top: 23%;
+  bottom: 63.83%;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f2f6ff;
+}
+.inisial3 {
+  position: absolute;
+  height: 24px;
+  left: 30%;
+  right: 30%;
+  top: calc(50% - 24px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 24px;
+  color: #234cad;
+}
+.notifikasi3 {
+  position: absolute;
+  box-sizing: border-box;
+  border-radius: 50%;
+  height: 10px;
+  left: 70%;
+  right: 60%;
+  width: 20px;
+  height: 20px;
+  background: #234cad;
+  border: 2.5px solid #ffffff;
+}
+.number3-right {
+  position: absolute;
+  height: 10px;
+  left: 40%;
+  right: 40%;
+  top: calc(50% - 10px / 2);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 7px;
+  line-height: 10px;
+  /* identical to box height, or 143% */
+
+  color: #ffffff;
+}
+.name3-right {
+  position: absolute;
+  margin-left: 150%;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 - 15px);
+  width: 155px;
+  color: #234cad;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 26px;
+}
+.massage3-right {
+  position: absolute;
+  margin-left: 150%;
+  width: 400%;
+  bottom: 0%;
+  top: calc(50% - 27px / 2 + 15px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 26px;
+
+  color: #234cad;
+}
+.time3-right {
+  position: absolute;
+  margin-left: 300%;
+  width: 300%;
+  top: calc(50% - 17px / 2 - 20px);
+
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  /* identical to box height, or 135% */
+
+  color: #234cad;
+
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+.content {
+  position: absolute;
+  width: 340px;
+  height: 360px;
+  left: 675px;
+  top: 108px;
+}
+.pbodytext {
+  position: absolute;
+  left: 15%;
+  right: 3.55%;
+  top: 52.35%;
+  bottom: 38.61%;
+  width: 300px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+
+  color: #234cad;
+}
+.maintitle {
+  position: absolute;
+  left: 15%;
+  right: 0%;
+  bottom: 52%;
+  width: 340px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  /* or 117% */
+
+  color: #234cad;
+}
+.buttonprimary {
+  position: absolute;
+  left: 15%;
+  right: 13.79%;
+  top: 80%;
+  bottom: 18.61%;
+}
+.buttonp:hover {
+  background-color: #e2e2e2;
+}
+.buttonp {
+  width: 200px;
+
+  height: 65px;
+  background: #ffffff;
+  border: 2px solid #234cad;
+  border-radius: 32.5px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 36px;
+  /* identical to box height, or 164% */
+
+  text-align: center;
+
+  color: #234cad;
+}
+/* css untuk textright end */
+
+
+/* css untuk pricing start */
+.pricing {
+  position: absolute;
+  width: 1240px;
+  height: 588px;
+  left: 100px;
+  top: 3583px;
+}
+.pricing-sc5 {
+  position: absolute;
+  width: 597px;
+  height: 133px;
+  left: 322px;
+  top: 0px;
+}
+.maintitlepricing {
+  position: absolute;
+  left: 5%;
+  right: 25.89%;
+  top: 0%;
+  bottom: 90.48%;
+  width: 597px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #234cad;
+}
+.bodytextpricing {
+  position: absolute;
+  left: 22.32%;
+  top: 60%;
+  bottom: 77.38%;
+  width: 365px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  color: #234cad;
+}
+.web-elemencard1-pricing {
+  position: absolute;
+  left: 0%;
+  right: 69.35%;
+  top: 35.37%;
+  bottom: 0%;
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+.subtitle-cr1-pricing {
+  position: absolute;
+  height: 40px;
+  left: 39.42%;
+  right: 38.69%;
+  width: 60px;
+  top: calc(50% - 40px / 2 - 120px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 40px;
+  text-align: center;
+  color: #234cad;
+}
+.price-cr1-pricing {
+  position: absolute;
+  height: 48px;
+  left: 37.59%;
+  right: 37.59%;
+  top: calc(50% - 48px / 2 - 41px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 48px;
+  text-align: center;
+  color: #234cad;
+}
+.bodytext-cr1-pricing {
+  position: absolute;
+  height: 32px;
+  left: 33.58%;
+  right: 32.48%;
+  top: calc(50% - 32px / 2 + 14px);
+  width: 93;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+  color: #234cad;
+}
+.learnmore-cr1-pricing {
+  position: absolute;
+  left: 14%;
+  top: 73.21%;
+  bottom: 0%;
+  width: 274px;
+  height: 75px;
+  background: #ffffff;
+  border-radius: 37.5px;
+}
+.textlearnmore-cr1-pricing {
+  position: absolute;
+  height: 40px;
+  left: 26.28%;
+  right: 25.91%;
+  top: calc(50% - 40px / 2 + 0.5px);
+  width: 134px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 40px;
+  text-align: center;
+  color: #234cad;
+}
+.learnmore-cr1-pricing:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+  cursor: pointer;
+  background-color: #e2e2e2;
+}
+.web-elemencard2-pricing {
+  position: absolute;
+  left: 34.68%;
+  right: 34.68%;
+  top: 35.37%;
+  bottom: 0%;
+  border: 3px solid #234cad;
+  border-radius: 60px;
+}
+.learnmore-cr2-pricing {
+  position: absolute;
+  left: 14%;
+  top: 73.21%;
+  bottom: 0%;
+  width: 274px;
+  height: 75px;
+  border: 3px solid #234cad;
+  border-radius: 37.5px;
+}
+.learnmore-cr2-pricing:hover {
+  transform: scale(1.1);
+  transition: 0.2s;
+  cursor: pointer;
+  background-color: #e2e2e2;
+}
+.web-elemencard3-pricing {
+  position: absolute;
+  left: 69.35%;
+  right: 0%;
+  top: 35.37%;
+  bottom: 0%;
+  width: 380px;
+  height: 380px;
+  background: #f2f6ff;
+  border-radius: 60px;
+}
+/* css untuk pricing end */
+
+/* css untuk footer start */
+.footer {
+  position: absolute;
+  width: 941px;
+  height: 166px;
+  left: 249px;
+  top: 4854px;
+}
+.startupio {
+  position: absolute;
+  height: 49px;
+  left: 0%;
+  right: 85.33%;
+  top: calc(50% - 49px / 2 - 58.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 49px;
+  color: #234cad;
+}
+.startupio2 {
+  position: absolute;
+  height: 58px;
+  left: 0%;
+  right: 82.68%;
+  top: calc(50% - 58px / 2 + 15px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #234cad;
+}
+.footer-produk {
+  position: absolute;
+  left: 33.26%;
+  right: 55.05%;
+  top: 0%;
+  bottom: 0%;
+}
+.footer-item {
+  position: absolute;
+  height: 49px;
+  left: 0%;
+  right: 0%;
+  top: calc(50% - 49px / 2 - 58.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 49px;
+  color: #234cad;
+}
+.item1 {
+  position: absolute;
+  height: 29px;
+  left: 0%;
+  right: 39.09%;
+  top: calc(50% - 29px / 2 - 9.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #234cad;
+}
+.item2 {
+  position: absolute;
+  height: 29px;
+  left: 0%;
+  right: 30%;
+  top: calc(50% - 29px / 2 + 29.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #234cad;
+}
+.item3 {
+  position: absolute;
+  height: 29px;
+  left: 0%;
+  right: 36.36%;
+  top: calc(50% - 29px / 2 + 68.5px);
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+  color: #234cad;
+}
+.footer-about {
+  position: absolute;
+  left: 60.89%;
+  right: 29.97%;
+  top: 27%;
+  bottom: 23.49%;
+}
+.footer-support {
+  position: absolute;
+  left: 85.97%;
+  right: 0%;
+  top: 27%;
+  width: 200px;
+  bottom: 23.49%;
+}
+
+@media only screen and (max-width: 768px) {
+  /* CSS untuk layar kecil */
+  .newsletter_card {
+    width: 100%;
+    text-align: center;
+  }
+  .newsletter-input {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* CSS untuk layar besar */
+  .newsletter_card {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .newsletter-input {
+    width: 60%;
+    margin-right: 10px;
+  }
+}
